@@ -1,4 +1,4 @@
-# The broken windos shader
+# The broken window shader
 video showcasing the shader: https://youtu.be/iAC74iCKpvI
 
 The sky inspiration came from the lectures when we were studying noise, it made me curious if I could also make my own shader which would use noise to mimic the sky. This turned out successfully and I was even able to add other cool effects such as; lava, water or broken glass.
